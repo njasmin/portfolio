@@ -1,0 +1,352 @@
+body {
+
+    color: gray;
+    font-family: Futura,Trebuchet MS,Arial,sans-serif;
+
+}
+
+h2 {
+
+    text-transform: uppercase;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: normal;
+
+}
+
+a:link, a:visited{
+
+    color: gray;
+    text-decoration: underline;
+
+}
+
+a:hover {
+
+    text-decoration: underline;
+
+}
+
+#nav {
+   
+    font-size: 18px;
+    margin: 10px;
+    position: relative;
+    top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 834px;
+  
+}
+
+#nav a {
+
+    text-decoration: none;
+}
+
+#pages {
+   
+    width: 800px;
+    text-align: center;
+    word-spacing: 60px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#pages a:hover {
+
+    text-decoration: underline;
+
+}
+
+#gallery {
+
+    color: rgb(189, 182, 223);
+
+}
+
+#about {
+
+    color: rgb(160, 182, 223);
+
+}
+
+#questions {
+
+    color: rgb(192, 222, 198);
+
+}
+
+#contact {
+
+    color: rgb(245, 172, 179);
+
+}
+
+#about_content {
+
+    position: relative;
+    background-color: white;
+    top: 80px;
+    width: 834px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 200px;
+
+} 
+
+#about_content a {
+
+     color: rgb(160, 182, 223);
+
+}
+
+#about_content a:hover {
+
+     color: rgb(160, 182, 223);
+
+}
+
+#about_content p {
+
+    width: 417px;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 30px;
+
+}
+
+#about_footer {
+    
+    width: 834px;
+    position: relative;
+    top: 40px;
+    
+}
+
+#about_footer a {
+    color: rgb(160, 182, 223);
+}
+
+#about_footer a:hover{
+
+     color: rgb(160, 182, 223);
+
+}
+
+#about_footer p {
+   
+    width: 834px;
+    text-align: left;
+    padding-left: 10px;
+}
+
+#about_footer a {
+   
+    padding-left: 20px;
+    text-decoration: underline;
+}
+
+#gallery_content {
+
+    position: relative;
+    background-color: white;
+    top: 80px;
+    width: 834px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 100px;
+
+} 
+
+#photo_grid {
+
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 30px;
+    padding-top: 30px;
+
+}
+
+#gallery_content img {
+
+     border-style: solid;
+
+}
+
+#gallery_content a:hover {
+
+     color: rgb(189, 182, 223);
+
+}
+
+
+#gallery_content p {
+
+    width: 500px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 30px;
+
+}
+
+#gallery_footer {
+    
+    width: 834px;
+    position: relative;
+    top: 40px;
+}
+
+#gallery_footer a {
+    color: rgb(189, 182, 223);
+}
+
+#gallery_footer a:hover{
+
+     color: rgb(189, 182, 223);
+
+}
+
+#gallery_footer p {
+   
+    width: 834px;
+    text-align: left;
+    padding-left: 10px;
+}
+
+#gallery_footer a {
+   
+    padding-left: 20px;
+    text-decoration: underline;
+}
+
+#questions_content {
+
+    position: relative;
+    background-color: white;
+    top: 80px;
+    width: 834px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 200px;
+
+} 
+
+#questions_content h3 {
+    width: 417px;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: normal;
+}
+
+#questions_content a:hover {
+
+     color: rgb(192, 222, 198);
+
+}
+
+
+#questions_content p {
+
+    width: 417px;
+    text-align: right;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 30px;
+
+}
+
+#questions_footer {
+    
+    width: 834px;
+    position: relative;
+    top: 40px;
+}
+
+#questions_footer a {
+    color: rgb(192, 222, 198);
+}
+
+#questions_footer a:hover{
+
+     color: rgb(192, 222, 198);
+
+}
+
+#questions_footer p {
+   
+    width: 834px;
+    text-align: left;
+    padding-left: 10px;
+}
+
+#questions_footer a {
+   
+    padding-left: 20px;
+    text-decoration: underline;
+}
+
+#contact_content {
+
+    position: relative;
+    background-color: white;
+    top: 80px;
+    width: 834px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 300px;
+
+} 
+
+#contact_content a {
+    color: rgb(245, 172, 179);
+}
+
+#contact_content a:hover {
+
+     color: rgb(245, 172, 179);
+
+}
+
+#contact_content p {
+
+    width: 417px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 30px;
+
+}
+
+#contact_footer {
+    
+    width: 834px;
+    position: relative;
+    top: 40px;
+}
+
+#contact_footer a:hover{
+
+     color: rgb(245, 172, 179);
+
+}
+
+#contact_footer p {
+   
+    width: 834px;
+    text-align: left;
+    padding-left: 10px;
+}
+
+#contact_footer a {
+   
+    color: rgb(245, 172, 179);
+    padding-left: 20px;
+    text-decoration: underline;
+}
